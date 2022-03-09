@@ -1,0 +1,9 @@
+{
+	"name": "datafactorydemohunny",
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51cac093-0901-4ee2-9033-a188bc3319e3",
+		"tenantId": "d6f8cc30-debb-41a6-9c78-0516c185fa0d"
+	}
+}
